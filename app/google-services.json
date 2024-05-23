@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "387738285293",
+    "firebase_url": "https://fooddonation-388b5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fooddonation-388b5",
+    "storage_bucket": "fooddonation-388b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738285293:android:35f35ae14ff93462e908e4",
+        "android_client_info": {
+          "package_name": "com.edna.fooddonation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYfkD_dM8kihDusrp6bJdTAUgi27sjeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

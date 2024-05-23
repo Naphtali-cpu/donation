@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/newhome"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_donate"
+        android:icon="@drawable/donate"
+        android:title= "Donate" />
+
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/newuser"
+        android:title="Profile" />
+</menu>
